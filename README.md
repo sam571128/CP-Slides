@@ -59,7 +59,7 @@ I taught four courses in this summer camp.
 | July 11, 2022     | [Dynamic Programming II (動態規劃 II)](https://github.com/HHSH-CYSH-WGSH-HSNU-Summer-Camp/DP-II/blob/main/DP_II.pdf)      | O(n log n) LIS, Knapsack, Range DP, Bitmask DP, Monotonic Queue Optimization, Matrix Exponentiation                |
 | July 15, 2022     | [Computational Geometry (計算幾何)](https://github.com/HHSH-CYSH-WGSH-HSNU-Summer-Camp/Computational-Geometry)      | 2D Vector, IEEE-754, Float Precisions, Convex Hull, Rotating Caliper, Polar Sort, Scanning Line Algorithm                |
 
-## HSNU-YPSH Competitive Programming Group 附中延平競程讀書會
+## [HSNU-YPSH Competitive Programming Group 附中延平競程讀書會](https://github.com/sam571128/CP-Slides/tree/main/HSNU-YPSH-Competitive-Programming-Group)
 
 I was invited by one of my best friends [Zhu](https://github.com/Iambamzhuuuu) to lecture in the study group.
 
