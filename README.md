@@ -5,7 +5,7 @@ The slides are created using LaTeX and Beamer, and cover a range of topics inclu
 
 ## Table of Contents
 
-### Wego Informatics Club
+### [Wego Informatics Club](https://github.com/sam571128/cp-slides/tree/main/Wego%20Informatics%20Club)
 
 These slides are made back in Fall of 2021 for the Informatics Club I founded. The length of a single course is 50 minutes.
 
