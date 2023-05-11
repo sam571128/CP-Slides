@@ -45,7 +45,7 @@ This summer camp is organized by me and four of my friends. The four schools inv
 - The Affiliated Senior High School of National Taiwan Normal University (HSNU 國立臺灣師範大學附屬高級中學)
 
 This is the schedule of the camp
-![](https://hackmd.io/_uploads/rkgtHiFV2.png)
+![](https://i.ibb.co/T42PkXs/summer-schedule.webp)
 
 [Here are the recordings of the summer camp.](https://www.youtube.com/playlist?list=PL_815psSzw1FATzqwJdWaWJHGcH4F6DUz)
 
